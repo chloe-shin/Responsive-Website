@@ -1,0 +1,45 @@
+.logo {
+    width: 200px;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+h1 {
+    color:#D4433F;
+    font-family: Montserrat;
+    font-weight: 640;
+    font-size: 58px;
+}
+
+p1 {
+font-weight: bold;
+font-size: 20px;
+font-family: montserrat;
+}
+p2 {
+font-family: roboto;
+}
+
+.card-deck {
+    padding: 100px;
+    display: flex;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 80px;
+
+}
+
+
+.card-img-top {
+    width: 50px;
+    margin: auto;
+    margin-top: 50px;
+}
